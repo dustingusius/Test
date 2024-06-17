@@ -1,0 +1,32 @@
+{
+	"storyName": "papercraft",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		999,
+		999,
+		999
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"papercraft",
+			"borra",
+			[
+				999,
+				999,
+				999
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "borra"
+}
