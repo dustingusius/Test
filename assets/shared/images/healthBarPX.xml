@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="healthBarPX.png">
+<SubTexture name="ye1" x="0" y="0" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ye2" x="721" y="0" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ye3" x="0" y="138" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ye4" x="721" y="138" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ye5" x="0" y="276" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ye6" x="721" y="276" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ye7" x="0" y="414" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ye8" x="721" y="414" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ye9" x="0" y="552" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ye10" x="721" y="552" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ye11" x="0" y="690" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ye12" x="721" y="690" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ow1" x="0" y="828" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ow2" x="721" y="828" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ow3" x="0" y="966" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ow4" x="721" y="966" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ow5" x="0" y="1104" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ow6" x="721" y="1104" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ow7" x="0" y="1242" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ow8" x="721" y="1242" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+<SubTexture name="ow9" x="0" y="1380" width="721" height="138" frameX="0" frameY="0" frameWidth="721" frameHeight="138" />
+</TextureAtlas>
